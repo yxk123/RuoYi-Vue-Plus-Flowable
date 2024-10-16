@@ -449,6 +449,7 @@
         </resources>
     </build>
 
+    <!-- 
     <repositories>
         <repository>
             <id>public</id>
@@ -459,6 +460,7 @@
             </releases>
         </repository>
     </repositories>
+    -->
 
     <pluginRepositories>
         <pluginRepository>
