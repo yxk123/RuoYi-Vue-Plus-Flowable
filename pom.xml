@@ -460,7 +460,6 @@
             </releases>
         </repository>
     </repositories>
-    -->
 
     <pluginRepositories>
         <pluginRepository>
@@ -475,6 +474,7 @@
             </snapshots>
         </pluginRepository>
     </pluginRepositories>
+    -->
 
 </project>
 
